@@ -1,0 +1,20 @@
+{
+  "name": "youtubebackendproject",
+  "version": "1.0.0",
+  "description": "this is the stsrt of backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "backend",
+    "youtube"
+  ],
+  "author": "Yash Chothe",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3"
+  }
+}
